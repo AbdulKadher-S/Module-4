@@ -42,7 +42,7 @@ print("Sorted by values:", sorted_by_values)
 ```
 
 ## Sample Output
-![alt text](<../Screenshot 2025-10-19 152418.png>)
+![alt text](<Screenshot 2025-10-19 152418.png>)
 ## Result
 The program successfully sorts a dictionary's:
 - Keys in alphabetical order

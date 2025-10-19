@@ -22,6 +22,6 @@ except IndexError:
 ```
 
 ## Output
-![alt text](<../Screenshot 2025-10-19 152501.png>)
+![alt text](<Screenshot 2025-10-19 152501.png>)
 ## Result
 The program successfully handles an IndexError, preventing the program from crashing when trying to access a non-existent index in a list.

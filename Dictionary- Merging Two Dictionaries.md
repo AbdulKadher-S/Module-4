@@ -25,6 +25,6 @@ print("Merged dictionary:", result)
 ```
 
 ## Output
-![alt text](<../Screenshot 2025-10-19 152404.png>)
+![alt text](<Screenshot 2025-10-19 152404.png>)
 ## Result
 The program successfully merges two dictionaries, combining all key-value pairs. If a key exists in both, the value from the second dictionary overwrites the first.

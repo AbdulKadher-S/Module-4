@@ -25,6 +25,6 @@ print("Number of lines not starting with 'T':", count)
 ```
 
 ## Output
-![alt text](<../Screenshot 2025-10-19 152736.png>)
+![alt text](<Screenshot 2025-10-19 152736.png>)
 ## Result
 The program successfully counts the number of lines in a file that do not start with the letter 'T', demonstrating file reading and conditional checking.

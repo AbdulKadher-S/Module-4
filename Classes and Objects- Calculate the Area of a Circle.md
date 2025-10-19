@@ -27,6 +27,6 @@ obj.mech(radius)
 ```
 
 ## Output
-![alt text](<../Screenshot 2025-10-19 152347.png>)
+![alt text](<Screenshot 2025-10-19 152347.png>)
 ## Result
 The program successfully calculates the area of a circle for any radius entered by the user using a class and method.
